@@ -1,0 +1,114 @@
+
+/* .main-heading{
+    background-color: gray;
+    color: whitesmoke;
+    border: 2px solid black;
+    background-image: url(./IMAGES/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 270px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+} */
+.chicken{
+    background-image: url(./IMAGES/chicken.avif);
+    background-size: 270px;
+    width: 300px;
+    background-repeat: no-repeat;
+    color:rgb(255, 0, 149); 
+   line-height: 25px;
+   border-radius: 10px;
+    
+}
+.tea{
+    background-image: url(./IMAGES/teabg.jpg);
+    background-size: 270px;
+    width: 300px;
+    background-repeat: no-repeat;
+    line-height: 40px;
+    color:rgb(255, 0, 149); 
+    border-radius: 10px;
+}
+.burger{
+    background-image: url(./IMAGES/burger.jpg);
+    background-size: 270px;
+    width: 300px;
+    background-repeat: no-repeat;
+    color:rgb(255, 0, 149); 
+    border-radius: 10px;
+}
+.pizza{
+    background-image: url(./IMAGES/pizza.jpg);
+    background-size: 270px;
+    width: 300px;
+    background-repeat: no-repeat;
+    color:rgb(255, 0, 149); 
+    border-radius: 10px;
+    
+}
+.iceream{
+    background-image: url(./IMAGES/icream.jpg);
+    background-size: 270px;
+    width: 300px;
+    background-repeat: no-repeat;
+    color:rgb(255, 0, 149); 
+    border-radius: 10px;
+    
+}
+.beryani{
+    background-image: url(./IMAGES/beryanii.jpg);
+    background-size: 270px;
+    width: 300px;
+    background-repeat: no-repeat;
+    color:rgb(255, 0, 149); 
+    border-radius: 10px;
+    
+}
+.fish{
+    background-image: url(./IMAGES/fishimg.jpg);
+    background-size: 270px;
+    width: 300px;
+    background-repeat: no-repeat;
+    color:rgb(255, 0, 149); 
+    line-height: 40px;
+    border-radius: 10px;
+    
+}
+.soup{
+    background-image: url(./IMAGES/soup.jpg);
+    background-size: 270px;
+    width: 300px;
+    background-repeat: no-repeat;
+    color:rgb(255, 0, 149); 
+    line-height: 30px;
+    border-radius: 10px;
+    
+}
+.kabab{
+    background-image: url(./IMAGES/kabab.jpg);
+    background-size: 270px;
+    width: 300px;
+    background-repeat: no-repeat;
+    color:rgb(255, 0, 149); 
+    border-radius: 10px;
+    
+}
+.contact{
+    background-image: url(./IMAGES/contact.jpg);
+    background-size: 800px;
+    background-repeat: no-repeat;
+    color:rgb(255, 0, 149); 
+    border-radius: 10px;
+}
+a{
+    color: white;
+}
+li{
+    list-style: none;
+}
+strong{
+    text-shadow: 3px 3px 1px rgb(199, 13, 122);
+    font-size: larger;
+}
